@@ -1,5 +1,8 @@
-neo4j
-python-whois
-dnspython
 requests
+beautifulsoup4
+neo4j
+dnspython
+python-whois
 shodan
+pandas
+pdfplumber
